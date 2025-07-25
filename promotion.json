@@ -1,7 +1,7 @@
 {
   "key": "SmartSavingWeek",
   "start_date": "2025-07-24 9:00:00 EST",
-  "end_date": "2025-07-31 22:00:00 EST",
+  "end_date": "2025-07-31 12.00:00 EST",
   "title": "Smart Saving Campaign - Ends on 31st July!",
   "content": "Unlock all premium features with up to 50% discount now!",
   "action_url": "https://wedocs.co/pricing/?utm_source=wp-dashboard&utm_medium=admin-notice&utm_campaign=july25deal",
