@@ -1,9 +1,10 @@
 {
-  "key": "October_Sale",
-  "start_date": "2025-10-20 9:00:00 EST",
-  "end_date": "2025-11-3 12:00:00 EST",
-  "title": "Unlock weDocs Premium - upto 55% off!",
-  "content": "Unlock all premium features with up to 55% discount now!",
-  "action_url": "https://wedocs.co/pricing/?utm_source=wp-dashboard&utm_medium=admin-notice&utm_campaign=oct_flash_sale",
+  "key": "BFCM_Earlybird",
+  "start_date": "2025-11-17 9:00:00 EST",
+  "end_date": "2025-11-21 12:00:00 EST",
+  "title": "Unlock weDocs Premium - upto 40% off!
+",
+  "content": "Unlock all premium features with up to 40% discount now!",
+  "action_url": "https://wedocs.co/pricing/?utm_source=wp-dashboard&utm_medium=admin-notice&utm_campaign=august_flash_sale",
   "action_title": "Grab the Deal"
 }
