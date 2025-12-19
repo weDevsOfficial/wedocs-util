@@ -1,9 +1,9 @@
 {
-  "key": "Black_Friday",
-  "start_date": "2025-11-24 9:00:00 EST",
-  "end_date": "2025-12-1 12:00:00 EST",
-  "title": "Unlock weDocs Premium - upto 35% off!",
-  "content": "Unlock all premium features with up to 35% discount now!",
-  "action_url": "https://wedocs.co/pricing/?utm_source=wp-dashboard&utm_medium=admin-notice&utm_campaign=black_friday_sale",
+  "key": "Holiday_Sale",
+  "start_date": "2025-12-18 9:00:00 EST",
+  "end_date": "2025-12-31 12:00:00 EST",
+  "title": "Surprise Holiday Sale to Unlock weDocs Premium !",
+  "content": "Unlock all weDocs premium features with huge savings this holiday season!",
+  "action_url": "https://wedocs.co/pricing/?utm_source=wp-dashboard&utm_medium=admin-notice&utm_campaign=holiday_sale",
   "action_title": "Grab the Deal"
 }
