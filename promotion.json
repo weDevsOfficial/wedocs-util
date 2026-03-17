@@ -1,9 +1,9 @@
 {
-  "key": "Feb_Sale",
-  "start_date": "2026-02-18 9:00:00 EST",
-  "end_date": "2026-02-27 12:00:00 EST",
-  "title": "Unlock weDocs Premium - Up to 30% Off!",
-  "content": "Unlock all premium features with up to 30% discount now!",
+  "key": "anniversary_Sale",
+  "start_date": "2026-03-16 9:00:00 EST",
+  "end_date": "2026-03-31 12:00:00 EST",
+  "title": "Unlock weDocs Premium - upto 35% off!",
+  "content": "Unlock all premium features with up to 35% discount now!",
   "action_url": "https://wedocs.co/pricing/?utm_source=wp-dashboard&utm_medium=admin-notice&utm_campaign=august_flash_sale",
   "action_title": "Grab the Deal"
 }
